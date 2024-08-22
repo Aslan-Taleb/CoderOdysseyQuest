@@ -1,9 +1,9 @@
 <p align="center">
-<iframe src="https://giphy.com/embed/5gkGuJ1s1L0cRuuJRq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5gkGuJ1s1L0cRuuJRq">via GIPHY</a></p>
-<h1 align="center">
-Sharpening the Axe 🪓 
-</h1>
+  <img width="" src="https://media.giphy.com/media/jzHFPlw89eTqU/giphy.gif" align="center" alt="Coder Odyssey Quest Logo" />
+  <h1 align="center">Coder Odyssey Quest ⛩️ </h1>
 </p>
+
+I embarked on the Coder Odyssey Quest with a burning desire to prepare for my coming intership. 
 
 I'm diving into the "Java Programming Masterclass for Software Developers" on Udemy, because let’s face it—Java mastery is non-negotiable for my upcoming internship. But that’s not all! I’m also tackling the "DevOps Fundamentals on AWS" course to get my feet wet in the world of DevOps.
 
@@ -38,4 +38,4 @@ Here are the courses I'm going to follow:
 
 ---
 
-@Aslan-Taleb 🪓  2024
+@Aslan-Taleb ⛩️  2024
