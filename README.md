@@ -15,8 +15,9 @@ Stay tuned—this repo will be evolving as I conquer each lesson and turn theory
 
 
 
-Here are the courses I'm going to follow:  
+## Here are the courses I'm going to follow:  
 [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=SKILLS4SALE)  
+
 [DevOps Fundamentals on AWS](https://www.udemy.com/course/devops-fundamentals-aws/learn/lecture/20541420?start=0#overview)
 
 ## Tools and Technologies:
